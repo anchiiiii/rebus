@@ -906,7 +906,12 @@ const rebuses = [
   {
     symbols: ['🔝', '+', '🤫'],
     words: ['top', 'secret'],
-    hint: 'Something you shouldn`\t tell others'
+    hint: 'Something you should not tell others'
+  },
+  {
+    symbols: ['🧱', '+', '🌼'],
+    words: ['wall', 'flower'],
+    hint: 'Someone who cannot interact'
   }
 ];
 
